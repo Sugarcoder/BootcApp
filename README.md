@@ -1,3 +1,3 @@
 ## Bootcamp App
 
-* HackR: Coding challenge
+* hackR: coding challenge

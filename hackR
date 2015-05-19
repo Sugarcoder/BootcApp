@@ -1,4 +1,4 @@
-myArray = ["Miki Chea", "Sugarcoder"];
+myArray = ["Miki C", "Sugarcoder"];
 
 function cutName(String) {
   return String.split(" ");

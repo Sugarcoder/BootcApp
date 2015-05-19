@@ -1,0 +1,14 @@
+myArray = ["Miki Chea", "Sugarcoder"];
+
+function cutName(String) {
+  return String.split(" ");
+}
+
+var myData = {
+  fullName: cutName(myArray[0]),
+  skype: "Sugarcoder",
+  github: "Sugarcoder"
+};
+
+
+Admissions.showApp();
